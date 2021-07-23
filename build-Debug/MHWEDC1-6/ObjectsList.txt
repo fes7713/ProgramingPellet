@@ -1,0 +1,1 @@
+../build-Debug/MHWEDC1-6/Variable.c.o ../build-Debug/MHWEDC1-6/main.c.o ../build-Debug/MHWEDC1-6/function.c.o   

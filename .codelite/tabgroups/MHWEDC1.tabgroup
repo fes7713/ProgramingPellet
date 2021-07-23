@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tabgroup Name="C:\Users\fes77\Documents\ProgrammingPellet\.codelite\tabgroups\MHWEDC1.3">
+  <wxString Value="C:\Users\fes77\Documents\ProgrammingPellet\.codelite\tabgroups\MHWEDC1.3" Name="m_TabgroupName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="C:\Users\fes77\Documents\ProgrammingPellet\MHWEDC1.3\function.h" Name="FileName"/>
+      <int Value="5" Name="FirstVisibleLine"/>
+      <int Value="28" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\fes77\Documents\ProgrammingPellet\MHWEDC1.3\function.c" Name="FileName"/>
+      <int Value="384" Name="FirstVisibleLine"/>
+      <int Value="385" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\fes77\Documents\ProgrammingPellet\MHWEDC1.3\Variable.h" Name="FileName"/>
+      <int Value="38" Name="FirstVisibleLine"/>
+      <int Value="39" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\fes77\Documents\ProgrammingPellet\MHWEDC1.3\Variable.c" Name="FileName"/>
+      <int Value="112" Name="FirstVisibleLine"/>
+      <int Value="113" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\fes77\Documents\ProgrammingPellet\MHWEDC1.3\main.c" Name="FileName"/>
+      <int Value="54" Name="FirstVisibleLine"/>
+      <int Value="62" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+</Tabgroup>

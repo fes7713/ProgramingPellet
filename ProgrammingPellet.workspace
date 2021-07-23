@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="ProgrammingPellet" Database="" Version="10000">
+  <Project Name="MHWEDC1-3" Path="MHWEDC1-3/MHWEDC1-3.project" Active="No"/>
+  <Project Name="ProgrammingTest01" Path="ProgrammingTest01/ProgrammingTest01.project" Active="No"/>
+  <Project Name="MHWEDC1-4" Path="MHWEDC1-4/MHWEDC1-4.project" Active="No"/>
+  <Project Name="MHWEDC1-5" Path="MHWEDC1-5/MHWEDC1-5.project" Active="No"/>
+  <Project Name="MHWEDC1-6" Path="MHWEDC1-6/MHWEDC1-6.project" Active="No"/>
+  <Project Name="MHWEDC1-7" Path="MHWEDC1-7/MHWEDC1-7.project" Active="No"/>
+  <Project Name="MHWEDC1-8" Path="MHWEDC1-8/MHWEDC1-8.project" Active="No"/>
+  <Project Name="FunctionDisplay" Path="FunctionDisplay/FunctionDisplay.project" Active="No"/>
+  <Project Name="Graph" Path="Graph/Graph.project" Active="No"/>
+  <Project Name="FunctionDisplay" Path="FunctionDisplay/FunctionDisplay.project" Active="No"/>
+  <Project Name="FunctionDisplay1-1" Path="FunctionDisplay1-1/FunctionDisplay1-1.project" Active="No"/>
+  <Project Name="Graph1-2" Path="Graph1-2/Graph1-2.project" Active="No"/>
+  <Project Name="ExamPractice" Path="ExamPractice/ExamPractice.project" Active="No"/>
+  <Project Name="Histogram" Path="Histogram/Histogram.project" Active="No"/>
+  <Project Name="Histogram1-1" Path="Histogram1-1/Histogram1-1.project" Active="No"/>
+  <Project Name="Histogram1-2" Path="Histogram1-2/Histogram1-2.project" Active="No"/>
+  <Project Name="VirusSpread1-1" Path="VirusSpread1-1/VirusSpread1-1.project" Active="No"/>
+  <Project Name="VirusSpread1-2" Path="VirusSpread1-2/VirusSpread1-2.project" Active="No"/>
+  <Project Name="VirusSpread1-3" Path="VirusSpread1-3/VirusSpread1-3.project" Active="No"/>
+  <Project Name="VirusSpread1-4" Path="VirusSpread1-4/VirusSpread1-4.project" Active="No"/>
+  <Project Name="Histogram1-3" Path="Histogram1-3/Histogram1-3.project" Active="No"/>
+  <Project Name="VirusSpread1-5" Path="VirusSpread/VirusSpread.project" Active="No"/>
+  <Project Name="VirusSpread1-5" Path="VirusSpread1-5/VirusSpread1-5.project" Active="No"/>
+  <Project Name="VirusSpread1-6" Path="VirusSpread1-6/VirusSpread1-6.project" Active="No"/>
+  <Project Name="VirusSpread2-0" Path="VirusSpread2-0/VirusSpread2-0.project" Active="No"/>
+  <Project Name="VirusSpread2-1" Path="VirusSpread2-1/VirusSpread2-1.project" Active="No"/>
+  <Project Name="Clock2-0" Path="Clock2-0/Clock2-0.project" Active="No"/>
+  <Project Name="MissileDefence" Path="MissileDefence/MissileDefence.project" Active="No"/>
+  <Project Name="MissileDefence3-2" Path="MissileDefence3-2/MissileDefence3-2.project" Active="No"/>
+  <Project Name="MissileDefence7-1" Path="MissileDefence7-1/MissileDefence7-1.project" Active="No"/>
+  <Project Name="JapanMap" Path="JapanMap/JapanMap.project" Active="No"/>
+  <Project Name="MissileDefence7-2" Path="MissileDefence7-2/MissileDefence7-2.project" Active="No"/>
+  <Project Name="ProgrammingTest04" Path="ProgrammingTest04/ProgrammingTest04.project" Active="No"/>
+  <Project Name="font" Path="font/font.project" Active="No"/>
+  <Project Name="CardGame" Path="CardGame/CardGame.project" Active="No"/>
+  <Project Name="MissileDefence8-0" Path="MissileDefence8-0/MissileDefence8-0.project" Active="No"/>
+  <Project Name="CardGame1-1" Path="CardGame1-1/CardGame1-1.project" Active="No"/>
+  <Project Name="CardGame1-2" Path="CardGame1-2/CardGame1-2.project" Active="No"/>
+  <Project Name="CardGame1-3" Path="CardGame1-3/CardGame1-3.project" Active="No"/>
+  <Project Name="CardGame1-4" Path="CardGame1-4/CardGame1-4.project" Active="No"/>
+  <Project Name="CardGame1-5" Path="CardGame1-5/CardGame1-5.project" Active="No"/>
+  <Project Name="ProgrammingTest06" Path="ProgrammingTest06/ProgrammingTest06.project" Active="No"/>
+  <Project Name="CardGame1-6" Path="CardGame1-6/CardGame1-6.project" Active="No"/>
+  <Project Name="CardGame1-7" Path="CardGame1-7/CardGame1-7.project" Active="No"/>
+  <Project Name="CardGame1-8" Path="CardGame1-8/CardGame1-8.project" Active="No"/>
+  <Project Name="CardGame1-9" Path="CardGame1-9/CardGame1-9.project" Active="No"/>
+  <Project Name="ProgrammingTest(g++)" Path="ProgrammingTest(g++)/ProgrammingTest(g++).project" Active="No"/>
+  <Project Name="ProgrammingTest07" Path="ProgrammingTest07/ProgrammingTest07.project" Active="No"/>
+  <Project Name="ProgrammingTest08" Path="ProgrammingTest08/ProgrammingTest08.project" Active="No"/>
+  <Project Name="CardGameTest01" Path="CardGameTest01/CardGameTest01.project" Active="No"/>
+  <Project Name="DisplayingText" Path="DisplayingText/DisplayingText.project" Active="No"/>
+  <Project Name="Mouse_Keyboard_Convertible" Path="Mouse_Keyboard_Convertible/Mouse_Keyboard_Convertible.project" Active="No"/>
+  <Project Name="CardGame2-0" Path="CardGame2-0/CardGame2-0.project" Active="No"/>
+  <Project Name="CardGame2-1" Path="CardGame2-1/CardGame2-1.project" Active="No"/>
+  <Project Name="CardGame2-2" Path="CardGame2-2/CardGame2-2.project" Active="No"/>
+  <Project Name="CardGame2-5" Path="CardGame2-5/CardGame2-5.project" Active="No"/>
+  <Project Name="CardGameTest02" Path="CardGameTest02/CardGameTest02.project" Active="No"/>
+  <Project Name="CardGame2-6" Path="CardGame2-6/CardGame2-6.project" Active="Yes"/>
+  <Project Name="HelloWorld" Path="HelloWorld/HelloWorld.project" Active="No"/>
+  <Project Name="ProgrammingTest09" Path="ProgrammingTest09/ProgrammingTest09.project" Active="No"/>
+  <Project Name="CardGameTest03" Path="CardGameTest03/CardGameTest03.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="MHWEDC1.3" ConfigName="Debug"/>
+      <Project Name="MHWEDC1-3" ConfigName="Debug"/>
+      <Project Name="ProgrammingTest01" ConfigName="Debug"/>
+      <Project Name="MHWEDC1-4" ConfigName="Debug"/>
+      <Project Name="MHWEDC1-5" ConfigName="Debug"/>
+      <Project Name="MHWEDC1-6" ConfigName="Debug"/>
+      <Project Name="MHWEDC1-7" ConfigName="Debug"/>
+      <Project Name="MHWEDC1-8" ConfigName="Debug"/>
+      <Project Name="FunctionDisplay" ConfigName="Debug"/>
+      <Project Name="Graph" ConfigName="Debug"/>
+      <Project Name="FunctionDisplay" ConfigName="Debug"/>
+      <Project Name="FunctionDisplay1-1" ConfigName="Debug"/>
+      <Project Name="Graph1-2" ConfigName="Debug"/>
+      <Project Name="ExamPractice" ConfigName="Debug"/>
+      <Project Name="Histogram" ConfigName="Debug"/>
+      <Project Name="Histogram1-1" ConfigName="Debug"/>
+      <Project Name="Histogram1-2" ConfigName="Debug"/>
+      <Project Name="VirusSpread1-1" ConfigName="Debug"/>
+      <Project Name="VirusSpread1-2" ConfigName="Debug"/>
+      <Project Name="VirusSpread1-3" ConfigName="Debug"/>
+      <Project Name="VirusSpread1-4" ConfigName="Debug"/>
+      <Project Name="Histogram1-3" ConfigName="Debug"/>
+      <Project Name="VirusSpread1-5" ConfigName="Debug"/>
+      <Project Name="VirusSpread1-5" ConfigName="Debug"/>
+      <Project Name="VirusSpread1-6" ConfigName="Debug"/>
+      <Project Name="VirusSpread2-0" ConfigName="Debug"/>
+      <Project Name="Histogram1-4" ConfigName="Debug"/>
+      <Project Name="VirusSpread2-1" ConfigName="Debug"/>
+      <Project Name="Clock2-0" ConfigName="Debug"/>
+      <Project Name="MissileDefence" ConfigName="Debug"/>
+      <Project Name="MissileDefence3-2" ConfigName="Debug"/>
+      <Project Name="MissileDefence7-1" ConfigName="Debug"/>
+      <Project Name="JapanMap" ConfigName="Debug"/>
+      <Project Name="MissileDefence7-2" ConfigName="Debug"/>
+      <Project Name="ProgrammingTest04" ConfigName="Debug"/>
+      <Project Name="font" ConfigName="Debug"/>
+      <Project Name="CardGame" ConfigName="Debug"/>
+      <Project Name="MissileDefence8-0" ConfigName="Debug"/>
+      <Project Name="CardGame1-1" ConfigName="Debug"/>
+      <Project Name="CardGame1-2" ConfigName="Debug"/>
+      <Project Name="CardGame1-3" ConfigName="Debug"/>
+      <Project Name="CardGame1-4" ConfigName="Debug"/>
+      <Project Name="CardGame1-5" ConfigName="Debug"/>
+      <Project Name="ProgrammingTest06" ConfigName="Debug"/>
+      <Project Name="CardGame1-7" ConfigName="Debug"/>
+      <Project Name="CardGame1-6" ConfigName="Debug"/>
+      <Project Name="CardGame1-7" ConfigName="Debug"/>
+      <Project Name="CardGame1-8" ConfigName="Debug"/>
+      <Project Name="CardGame1-9" ConfigName="Debug"/>
+      <Project Name="ProgrammingTest(g++)" ConfigName="Debug"/>
+      <Project Name="ProgrammingTest07" ConfigName="Debug"/>
+      <Project Name="ProgrammingTest08" ConfigName="Debug"/>
+      <Project Name="CardGameTest01" ConfigName="Debug"/>
+      <Project Name="DisplayingText" ConfigName="Debug"/>
+      <Project Name="Mouse_Keyboard_Convertible" ConfigName="Debug"/>
+      <Project Name="CardGame2-0" ConfigName="Debug"/>
+      <Project Name="CardGame2-1" ConfigName="Debug"/>
+      <Project Name="CardGame2-2" ConfigName="Debug"/>
+      <Project Name="CardGame2-5" ConfigName="Debug"/>
+      <Project Name="CardGameTest02" ConfigName="Debug"/>
+      <Project Name="CardGame2-6" ConfigName="Debug"/>
+      <Project Name="HelloWorld" ConfigName="Debug"/>
+      <Project Name="ProgrammingTest09" ConfigName="Debug"/>
+      <Project Name="CardGameTest03" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="MHWEDC1.3" ConfigName="Release"/>
+      <Project Name="MHWEDC1-3" ConfigName="Release"/>
+      <Project Name="ProgrammingTest01" ConfigName="Release"/>
+      <Project Name="MHWEDC1-4" ConfigName="Release"/>
+      <Project Name="MHWEDC1-5" ConfigName="Release"/>
+      <Project Name="MHWEDC1-6" ConfigName="Release"/>
+      <Project Name="MHWEDC1-7" ConfigName="Release"/>
+      <Project Name="MHWEDC1-8" ConfigName="Release"/>
+      <Project Name="FunctionDisplay" ConfigName="Release"/>
+      <Project Name="Graph" ConfigName="Release"/>
+      <Project Name="FunctionDisplay" ConfigName="Release"/>
+      <Project Name="FunctionDisplay1-1" ConfigName="Release"/>
+      <Project Name="Graph1-2" ConfigName="Release"/>
+      <Project Name="ExamPractice" ConfigName="Release"/>
+      <Project Name="Histogram" ConfigName="Release"/>
+      <Project Name="Histogram1-1" ConfigName="Release"/>
+      <Project Name="Histogram1-2" ConfigName="Release"/>
+      <Project Name="VirusSpread1-1" ConfigName="Release"/>
+      <Project Name="VirusSpread1-2" ConfigName="Release"/>
+      <Project Name="VirusSpread1-3" ConfigName="Release"/>
+      <Project Name="VirusSpread1-4" ConfigName="Release"/>
+      <Project Name="Histogram1-3" ConfigName="Release"/>
+      <Project Name="VirusSpread1-5" ConfigName="Release"/>
+      <Project Name="VirusSpread1-5" ConfigName="Release"/>
+      <Project Name="VirusSpread1-6" ConfigName="Release"/>
+      <Project Name="VirusSpread2-0" ConfigName="Release"/>
+      <Project Name="Histogram1-4" ConfigName="Release"/>
+      <Project Name="VirusSpread2-1" ConfigName="Release"/>
+      <Project Name="Clock2-0" ConfigName="Release"/>
+      <Project Name="MissileDefence" ConfigName="Release"/>
+      <Project Name="MissileDefence3-2" ConfigName="Release"/>
+      <Project Name="MissileDefence7-1" ConfigName="Release"/>
+      <Project Name="JapanMap" ConfigName="Release"/>
+      <Project Name="MissileDefence7-2" ConfigName="Release"/>
+      <Project Name="ProgrammingTest04" ConfigName="Release"/>
+      <Project Name="font" ConfigName="Release"/>
+      <Project Name="CardGame" ConfigName="Release"/>
+      <Project Name="MissileDefence8-0" ConfigName="Release"/>
+      <Project Name="CardGame1-1" ConfigName="Release"/>
+      <Project Name="CardGame1-2" ConfigName="Release"/>
+      <Project Name="CardGame1-3" ConfigName="Release"/>
+      <Project Name="CardGame1-4" ConfigName="Release"/>
+      <Project Name="CardGame1-5" ConfigName="Release"/>
+      <Project Name="ProgrammingTest06" ConfigName="Release"/>
+      <Project Name="CardGame1-7" ConfigName="Release"/>
+      <Project Name="CardGame1-6" ConfigName="Release"/>
+      <Project Name="CardGame1-7" ConfigName="Release"/>
+      <Project Name="CardGame1-8" ConfigName="Release"/>
+      <Project Name="CardGame1-9" ConfigName="Release"/>
+      <Project Name="ProgrammingTest(g++)" ConfigName="Release"/>
+      <Project Name="ProgrammingTest07" ConfigName="Release"/>
+      <Project Name="ProgrammingTest08" ConfigName="Release"/>
+      <Project Name="CardGameTest01" ConfigName="Release"/>
+      <Project Name="DisplayingText" ConfigName="Release"/>
+      <Project Name="Mouse_Keyboard_Convertible" ConfigName="Release"/>
+      <Project Name="CardGame2-0" ConfigName="Release"/>
+      <Project Name="CardGame2-1" ConfigName="Release"/>
+      <Project Name="CardGame2-2" ConfigName="Release"/>
+      <Project Name="CardGame2-5" ConfigName="Release"/>
+      <Project Name="CardGameTest02" ConfigName="Release"/>
+      <Project Name="CardGame2-6" ConfigName="Release"/>
+      <Project Name="HelloWorld" ConfigName="Release"/>
+      <Project Name="ProgrammingTest09" ConfigName="Release"/>
+      <Project Name="CardGameTest03" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

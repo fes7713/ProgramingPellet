@@ -1,0 +1,1 @@
+../build-Debug/DisplayingText/main.c.o   
